@@ -2,7 +2,7 @@
 name: Meson Grant Application 2nd Tier
 about: 'Submit this issue to apply for a 2nd Tier: Broaden the reach and impact of
   the community'
-title: 2nd <Your Title Here>
+title: 2nd <2023-11-30> (Please modify the date to the one you want to be reviewed)
 labels: ''
 assignees: bitruss
 
@@ -16,5 +16,4 @@ assignees: bitruss
 
 ### Links and submissions
 
-### Contact Info
-Provide us with a way to contact you (email/telegram is probably easiest).
+*Ping us in our common telegram group.*

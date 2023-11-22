@@ -1,7 +1,7 @@
 ---
 name: Meson Grant Application 1st Tier
 about: 'Submit this issue to apply for a 1st Tier: Lay the foundation for the community'
-title: 1st <Your Title Here>
+title: 1st <2023-11-24> (Please modify the date to the one you want to be reviewed)
 labels: ''
 assignees: bitruss
 
@@ -15,5 +15,4 @@ assignees: bitruss
 
 ### Links and submissions
 
-### Contact Info
-Provide us with a way to contact you (email/telegram is probably easiest).
+*Ping us in our common telegram group.*
