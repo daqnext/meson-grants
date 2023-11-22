@@ -1,6 +1,6 @@
 ---
 name: Meson Grant Application 1st Tier
-about: Submit this issue to apply for a 1st Tier: Lay the foundation for the community
+about: "Submit this issue to apply for a 1st Tier: Lay the foundation for the community"
 title: <Your Title Here>
 labels: Meson Grant 1st Tier
 assignees: bitruss
