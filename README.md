@@ -22,7 +22,7 @@ This initiative strives to discover ambitious people/companies who are keen to c
 
 ## Application Instructions
 - [ ] Apply on Meson Website -> `Builder Application` or use the [forms](https://t.co/ZGh5KXofiq)
-- [ ] Submit your result via [meson-grants](https://github.com/daqnext/meson-grants/issues/new/choose) GitHub repository by creating issues
+- [ ] Submit your result via meson-grants GitHub repository by creating [issues](https://github.com/daqnext/meson-grants/issues/new/choose)
 
 ## Winner Lists
 TBA
