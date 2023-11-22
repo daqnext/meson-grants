@@ -1,7 +1,7 @@
 ---
 name: Meson Grant Application 3rd Tier
 about: 'Submit this issue to apply for a 3rd Tier: Intensify collaborative efforts'
-title: "<Your Title Here>"
+title: 3th <2023-12-30> (Please modify the date to the one you want to be reviewed)
 labels: ''
 assignees: bitruss
 
@@ -15,5 +15,4 @@ assignees: bitruss
 
 ### Links and submissions
 
-### Contact Info
-Provide us with a way to contact you (email/telegram is probably easiest).
+*Ping us in our common telegram group.*
