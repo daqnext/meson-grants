@@ -1,10 +1,8 @@
 > Thank you for applying to our grants program! We will respond to your application within 24 hours.
 
-## Meson Grants
+## Meson BUILDer Program II
 
 Welcome to the Meson Grant Platform! This is where grant makers connect with the talented builders and researchers in the Meson community.
-
-### Meson BUILDer Program II
 
 Meson BUILDer Program II aims to help more people benefit from Web3.
 This initiative strives to discover ambitious people/companies who are keen to contribute to the Meson community.
@@ -21,8 +19,14 @@ This initiative strives to discover ambitious people/companies who are keen to c
 (Note: We reward with *Meson Mainnet Tokens*.)
 
 ## Application Instructions
-- [ ] Apply on Meson Website -> `Builder Application` or use the [forms](https://t.co/ZGh5KXofiq).
-- [ ] Submit your result via meson-grants GitHub repository by creating [issues](https://github.com/daqnext/meson-grants/issues/new/choose).
+- Before work
+  - [ ] Apply on Meson Website -> `Builder Application` or use the [forms](https://t.co/ZGh5KXofiq).
+  - [ ] You will receive an invitation to our Telegram group from `@bitruss` within 24 hours. Please stay alert for any fraudulent accounts.
+  - [ ] If you don't provide a Telegram handle, an invitation will be sent to you via email from `meson.network`.
+  - [ ] The information you provided in the forms will be available in the Telegram group for cross-validation.
+- After work
+  - [ ] Submit your result via meson-grants GitHub repository by creating [**issues**](https://github.com/daqnext/meson-grants/issues/new/choose).
+![Submissions](./assets/asgard-sumit.png)
 
 ## Winner Lists
 TBA
