@@ -1,7 +1,7 @@
 ---
 name: Meson Grant Application 1st Tier
 about: 'Submit this issue to apply for a 1st Tier: Lay the foundation for the community'
-title: 1st <2023-11-24> (Please modify the date to the one you want to be reviewed)
+title: 1st <2023-12-01>
 labels: ''
 assignees: bitruss
 
