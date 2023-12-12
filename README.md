@@ -28,7 +28,10 @@ This initiative strives to discover ambitious people/companies who are keen to c
   - [ ] Submit your result via meson-grants GitHub repository by creating [**issues**](https://github.com/daqnext/meson-grants/issues/new/choose).
 ![Submissions](./assets/asgard-sumit.png)
 
-## Winner Lists
-TBA
-
 ![Image](./assets/new-asgard.jpg)
+
+## Winner Lists
+https://opensea.io/collection/meson-newasgard
+
+- 2023-12-08
+  - https://github.com/daqnext/meson-grants/issues/15
