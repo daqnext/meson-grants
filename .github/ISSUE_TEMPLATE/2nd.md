@@ -2,7 +2,7 @@
 name: Meson Grant Application 2nd Tier
 about: 'Submit this issue to apply for a 2nd Tier: Broaden the reach and impact of
   the community'
-title: 2nd <2024-02-02>
+title: 2nd <2024-02-16>
 labels: Tier2
 assignees: bitruss
 
