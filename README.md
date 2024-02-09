@@ -35,3 +35,9 @@ https://opensea.io/collection/meson-newasgard
 
 - 2023-12-08
   - https://github.com/daqnext/meson-grants/issues/15
+  - https://github.com/daqnext/meson-grants/issues/42
+  - https://github.com/daqnext/meson-grants/issues/70
+  - https://github.com/daqnext/meson-grants/issues/71
+  - https://github.com/daqnext/meson-grants/issues/85
+
+
